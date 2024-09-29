@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+DECRIPTION:
+
+The Counter Application is a straightforward React-based app that allows users to increment, decrement, or reset a counter value. This basic application demonstrates core concepts of React, such as state management and event handling, making it ideal for beginners to understand how to update and display dynamic data in a user interface.
+
+Features:
+
+Increment: Increases the counter value by 1 each time the button is clicked.
+Decrement: Decreases the counter value by 1 with each click.
+Reset: Resets the counter back to 0.
+Real-time Update: The counter value updates in real-time as users interact with the buttons.
+
+Technology Stack:
+React: A popular JavaScript library for building user interfaces.
+CSS: Used for styling the buttons and layout.
