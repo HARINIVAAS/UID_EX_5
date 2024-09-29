@@ -84,3 +84,5 @@ Real-time Update: The counter value updates in real-time as users interact with 
 Technology Stack:
 React: A popular JavaScript library for building user interfaces.
 CSS: Used for styling the buttons and layout.
+
+![EX 5](https://github.com/user-attachments/assets/52e4cc8c-e7dc-4226-801e-ce9b738278c3)
